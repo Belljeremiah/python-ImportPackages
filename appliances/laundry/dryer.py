@@ -1,4 +1,4 @@
-from .appliances import Appliance
+from appliances.appliance import Appliance
 
 def Dryer(Appliance):
 
